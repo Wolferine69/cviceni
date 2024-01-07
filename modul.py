@@ -1,0 +1,1 @@
+print ("Ahoj ja jsem modul")
